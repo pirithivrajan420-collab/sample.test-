@@ -3,13 +3,7 @@ name: Python CI
 on:
   push:
     branches:
-      - main
-      - develop
-
-  pull_request:
-    branches:
-      - main
-      - develop
+      -main
 
 jobs:
   lint-and-test:
