@@ -1,4 +1,4 @@
-import calc as ca
+import main as ca
 
 USER_DATA = {
     "username": "admin",
